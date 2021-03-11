@@ -33,6 +33,7 @@ public class Test {
         return (int) LocalDateTime.now().withHour(0).truncatedTo(ChronoUnit.HOURS).atZone(ZoneId.systemDefault()).toInstant().getEpochSecond();
     }
 
+
     /**
      * 明日0点
      *
