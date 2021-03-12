@@ -10,6 +10,6 @@ public class Test {
         System.out.println("wen");
         System.out.println("tao");
         System.out.println("你");
-        System.out.println("好");
+        System.out.println("111");
     }
 }
