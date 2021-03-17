@@ -7,5 +7,6 @@ package com.lwt.testgit;
 public class Test {
     public void test(){
         System.out.println("1");
+        System.out.println("2");
     }
 }
