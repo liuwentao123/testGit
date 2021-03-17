@@ -13,5 +13,6 @@ public class Test {
         System.out.println("好");
         System.out.println("呀");
         System.out.println("!");
+        System.out.println("!");
     }
 }
